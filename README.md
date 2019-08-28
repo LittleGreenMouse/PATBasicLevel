@@ -1,2 +1,2 @@
 # PATBasicLevel
-PAT basic level solutions
+PAT basic level practice solutions
